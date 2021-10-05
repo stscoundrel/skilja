@@ -1,4 +1,4 @@
-const { chunkArray } = require('../src/chunk-array.js');
+const { chunkArray } = require('../src/chunk-array');
 
 const arrayA = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
