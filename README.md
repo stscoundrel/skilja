@@ -8,6 +8,10 @@ JavaScript standard library has for long lacked a method to chunk array into sma
 
 `yarn add skilja`
 
+Type definitions available via DefinitelyTyped
+
+`yarn add @types/skilja`
+
 ### Usage
 
 
